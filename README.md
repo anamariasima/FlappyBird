@@ -1,4 +1,4 @@
-# FlapyBird
+# FlappyBird
 
 /* SIMA ANA-MARIA - 333CB */
 
